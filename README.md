@@ -1,10 +1,9 @@
 # LGM-Net
 TensorFlow source code for the following publication:
-> LGM-Net: Learning to Generate Matching Networks for Few-Shot Learning
->
-> Huaiyu Li, Weiming Dong, Xing Mei, Chongyang Ma, Feiyue Huang, Bao-Gang Hu
->
-> In *Proceedings of the 36th International Conference on Machine Learning (ICML 2019)*
+> LGM-Net: Learning to Generate Matching Networks for Few-Shot Learning  
+> Huaiyu Li, Weiming Dong, Xing Mei, Chongyang Ma, Feiyue Huang, Bao-Gang Hu  
+> In *Proceedings of the 36th International Conference on Machine Learning (ICML 2019) (Oral)*  
+> [`PDF`](http://proceedings.mlr.press/v97/li19c/li19c.pdf) [`Slides`](https://icml.cc/media/Slides/icml/2019/halla(11-11-00)-11-12-15-4519-lgm-net_learni.pdf) [`Video`](https://youtube.videoken.com/embed/UqSyCaz9wFQ?tocitem=92)
 
 # Requirements
 - Python 3.5
